@@ -16,7 +16,7 @@
 
 📝 I have a strong interest in software engineering and design
 
-🌟 Main Language: PHP😁
+🌟 Main Language: Dart😁
 
 🚩 I'm interested in server-side application development
 
@@ -25,14 +25,6 @@
 ✍ You can find my resume [here](https://drive.google.com/file/d/13-m17-gB0mfwcog1qs9OZ8kZ1hlaqAnW/view?usp=sharing)
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width=50px>Socials
-
-<div align="center">
-  <a href="https://linkedin.com/in/Luisjrdev">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b> Skills</b> 
 
@@ -76,12 +68,4 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LuisJrDev&layout=compact&theme=onestar&column=7&row=1&margin-w=15&margin-h=15" alt="LuisJrDev" /></a> </p>
-<!--- trophy (end) -->
-
-
 </p>        
-<!--- stats (end) -->
